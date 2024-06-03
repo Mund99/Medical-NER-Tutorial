@@ -1,0 +1,3 @@
+# Ignore model-best and model-last directories
+model-best/
+model-last/
